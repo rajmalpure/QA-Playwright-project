@@ -1,0 +1,24 @@
+# Node.js dependencies
+node_modules/
+
+# Playwright test artifacts
+playwright-report/
+test-results/
+videos/
+screenshots/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+
+# IDE files (add yours if needed)
+.vscode/
+.idea/
